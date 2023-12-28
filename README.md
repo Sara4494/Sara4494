@@ -69,9 +69,7 @@ Feel free to reach out! Let's connect and learn together. 🌟
 
 </div>
 <br>
-<br> عدل الكود ويكون مناسب لي django rest api and  web scripng
-
-<br>
+ 
 <br>
 
 ---
