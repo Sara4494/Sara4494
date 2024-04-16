@@ -42,7 +42,7 @@ Feel the magic? Together, let's redefine Django REST API development. Your API a
 
 🌟 Featured Spell: Effortless Serialization
 ```python
-Copy code
+ 
 class EnchantedSerializer(serializers.Serializer):
     name = serializers.CharField(max_length=50)
     power = serializers.IntegerField()
