@@ -1,4 +1,4 @@
-<h1 align="center"><b>Assalamu Alaikum, I'm Sarah Reiad F </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Assalamu Alaikum, I'm Sarah Reiad  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer%20+%20Backend+Magician...&hearts;++;Self-taught+Back-End+Developer,;Django+REST+Framework+Enthusiast,;Computer+Science+Student,;Active+Learner/Researcher,;Passionate+about+building+scalable+APIs,<3">
