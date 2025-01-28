@@ -8,7 +8,7 @@
 <br>
 
 ## 🚀 About Me
-Assalamu Alaikum! I'm Sarah Reiad F, a coding enthusiast on a mission to turn coffee into code. Currently pursuing a degree in Computer Science, my journey involves crafting elegant and efficient solutions in the realm of web development, bot development, and web scraping.
+I'm Sarah Reiad  coding enthusiast on a mission to turn coffee into code.   my journey involves crafting elegant and efficient solutions in the realm of web development, bot development, and web scraping.
 
 <br><br>
 
